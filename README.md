@@ -48,10 +48,12 @@ Configuration
 Adjust parameters in config.py, such as:
 
 Camera index
-
 Model path
-
 Alarm sound path
-
 Thresholds for eye closure, look-away, and no-eye detection
-7. 
+
+Developer Information
+Developed by: Myint Myat Thu
+Email: myintmyatthuoxygen200373mk@gmail.com
+University: University of Computer Studies (Thaton)
+Phone: +959988485929
