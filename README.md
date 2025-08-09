@@ -1,5 +1,5 @@
 # Driver Safety System
-can watch simple on this youtube link https://youtube.com/shorts/VYiU78oYqcs?si=GSAbw0e8mDhWi1kQ
+[![Watch Demo Video](https://img.youtube.com/vi/VYiU78oYqcs/maxresdefault.jpg)](https://youtube.com/shorts/VYiU78oYqcs?si=GSAbw0e8mDhWi1kQ)
 
 ## Overview
 
