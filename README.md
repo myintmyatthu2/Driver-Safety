@@ -53,6 +53,10 @@ Model path
 Alarm sound path
 Thresholds for eye closure, look-away, and no-eye detection
 
+## Project File Architecture
+![File Architecture](photo_2025-08-11_20-51-16.jpg)
+
+
 Developer Information
 Developed by: Myint Myat Thu
 Email: myintmyatthuoxygen200373mk@gmail.com
